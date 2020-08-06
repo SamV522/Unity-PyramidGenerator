@@ -3,7 +3,7 @@ using Vector3 = UnityEngine.Vector3;
 using Quaternion = UnityEngine.Quaternion;
 using System;
 
-namespace ZombieRTS
+namespace Utilities
 {
     public static class PyramidGenerator
     {
