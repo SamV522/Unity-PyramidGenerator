@@ -6,7 +6,7 @@ This script will create a pyramid shaped mesh from the origin point as the tip, 
 
 Test example:
 ```cs
-using Utilites
+using Utilites;
 
 public void Test()
 {
